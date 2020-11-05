@@ -1,4 +1,4 @@
-### Hi I'm Sebastian there 👋
+### Hi I'm Sebastian 👋
 
 <!--
 **sebastiancassisi/sebastiancassisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
