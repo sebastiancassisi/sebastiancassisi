@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Chefgo](https://chefgo.app)
 
-- 👨‍💻 All of my projects are available at [https://sebastiancassisi.com](sebastiancassisi.com)
+- 👨‍💻 All of my projects are available at [sebastiancassisi.com](https://sebastiancassisi.com)
 
 - 📫 How to reach me **sebastiancassisi@gmail.com**
 
