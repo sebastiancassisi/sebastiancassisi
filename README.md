@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, NodeJs, React, Java**
 
-- 👯 I’m looking to collaborate on [Chefgo](chefgo.app)
+- 👯 I’m looking to collaborate on [Chefgo](www.chefgo.app)
 
 - 👨‍💻 All of my projects are available at [sebastiancassisi.com](sebastiancassisi.com)
 
