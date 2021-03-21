@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Chefgo](chefgo.app)
+- 🔭 I’m currently working on [Chefgo](https://chefgo.app)
 
 - 🌱 I’m currently learning **Angular, NodeJs, React, Java**
 
-- 👯 I’m looking to collaborate on [Chefgo](www.chefgo.app)
+- 👯 I’m looking to collaborate on [Chefgo](https://chefgo.app)
 
-- 👨‍💻 All of my projects are available at [sebastiancassisi.com](sebastiancassisi.com)
+- 👨‍💻 All of my projects are available at [https://sebastiancassisi.com](sebastiancassisi.com)
 
 - 📫 How to reach me **sebastiancassisi@gmail.com**
 
