@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Chefgo](https://chefgo.app)
 
