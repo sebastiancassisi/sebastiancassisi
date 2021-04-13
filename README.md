@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 
+My name is Sebastian Cassisi and I'm a software developer/FullStack. I'm from Argentina, living in Barcelona and currently working at ChefGo.
+
 - 🔭 I’m currently working on [Chefgo](https://chefgo.app)
 
 - 🌱 I’m currently learning **Angular, NodeJs, React, Java**
