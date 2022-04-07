@@ -2,7 +2,7 @@
 
 My name is Sebastian Cassisi and I'm a software developer/FullStack. I'm from Argentina, living in Barcelona.
 
-- 🔭 I’m currently working on [Chefgo](https://chefgo.app)
+- 🔭 I’m currently working on [Butic](https://buticapp.com)
 
 - 🌱 I’m currently learning **React Native**
 
