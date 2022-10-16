@@ -6,6 +6,11 @@ My name is Sebastian Cassisi and I'm a software developer/FullStack. I'm from Ar
 
 - 📫 How to reach me **sebastiancassisi@gmail.com**
 
+## Languages and Tools:
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,spring,js,ts,nodejs,angular,react,nextjs,mongodb,mysql,docker,git,figma&theme=dark)](https://skills.thijs.gg)
+
+
 ## Connect with me
 
 <p align="left">
@@ -15,4 +20,3 @@ My name is Sebastian Cassisi and I'm a software developer/FullStack. I'm from Ar
 <a href="https://fb.com/sebastiancasisi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sebastiancasisi" height="30" width="40" /></a>
 <a href="https://instagram.com/sebastiancasisi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sebastiancasisi" height="30" width="40" /></a>
 </p>
-
